@@ -1,0 +1,178 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.9f1 (ad3870b89536) revision 11352176'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'pt' Physical Memory: 6135 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker124
+-projectPath
+C:/Users/Iori/Downloads/River-tale/The River Tales
+-logFile
+Logs/AssetImportWorker124.log
+-srvPort
+57433
+Successfully changed project path to: C:/Users/Iori/Downloads/River-tale/The River Tales
+C:/Users/Iori/Downloads/River-tale/The River Tales
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+mdb reader table full -> cleaning up stale readers. Current readers:
+    pid     thread     txnid
+     25692 3924 -
+      4872 61c0 -
+     25692 4194 -
+     14292 11d8 -
+     24480 5fcc -
+      7412 36ac -
+      7280 47c8 -
+     13540 5740 -
+      8960 4564 -
+      9716 3b0c -
+     19692 3efc -
+      2340 3794 -
+     13400 5fe4 -
+     15852 1d54 -
+     15156 430 -
+     23236 5ee8 -
+      9616 32fc -
+      7216 4c40 -
+     16436 64f0 -
+     19052 5128 -
+     14504 1dcc -
+     21060 413c -
+      8652 34d4 -
+     24028 5bb0 -
+     10376 2de8 -
+     24596 4758 -
+     24788 2758 -
+     22160 20d8 -
+     11360 5de4 -
+     26136 1ca4 -
+     12612 2fcc -
+     13276 550 -
+     19760 5db8 -
+     12024 868 -
+     16500 3680 -
+      9516 1d48 -
+     16992 65fc -
+     11576 3a20 -
+     22276 1978 -
+     22296 5264 -
+     26128 50cc -
+     12400 954 -
+     10968 5f00 -
+      8528 5650 -
+     12784 238c -
+     19312 5060 -
+     24984 66e4 -
+     20796 a2c -
+      6396 2148 -
+     19868 3f40 -
+     22828 4884 -
+     22960 5068 -
+     22584 51a8 8187
+     22804 5564 8187
+     12672 5088 -
+      2392 3ba8 -
+     24276 33b0 -
+     14668 5744 -
+      3432 1994 -
+      6316 2bb0 -
+     15444 1bb8 -
+     20016 2e28 -
+      1356 50d8 -
+      4136 2e98 -
+      8348 37cc -
+     12896 50c8 -
+     14848 4214 -
+     16648 4c10 -
+     12700 5c74 -
+     14432 5d38 -
+     16356 1eec -
+     24088 4ef4 -
+     13012 9a8 -
+      6588 2ca4 -
+      3512 5a64 -
+     10824 69c -
+     24992 3fa4 -
+     23336 2fa8 -
+     11668 4370 -
+     24732 4444 -
+      5244 2b88 -
+      3592 f58 -
+     18268 4eb0 -
+      8404 1c40 -
+     21552 2f48 -
+     17772 53e8 -
+     15604 6714 -
+       892 3834 -
+     12208 2a80 -
+      9772 1b5c -
+     22136 186c 8227
+     20600 410c -
+     10096 6664 -
+     17816 1b74 -
+     23160 4ed8 -
+     23628 2b04 -
+     15192 1fbc -
+     19560 1618 -
+      5616 39a8 -
+     11056 5cc0 -
+     12652 31ac -
+     16324 53e4 -
+     17328 5c44 -
+     21380 3a44 -
+      5740 6318 -
+      7864 41b0 -
+     21636 2940 -
+     19716 5074 -
+     26120 3678 -
+      8040 63c4 -
+     26572 55b0 -
+     14200 1d90 -
+     23208 3b54 -
+      7444 2554 -
+     23584 229c -
+     10464 bd4 -
+      8232 43d8 -
+      6224 22c0 -
+      7484 6238 -
+     23312 35d0 -
+      1352 2cf8 -
+     19576 9c0 -
+      4144 43ac -
+      4268 10e0 -
+     11420 6630 8263
+     23560 3cd4 8263
+Cleaned out 124 stale readers

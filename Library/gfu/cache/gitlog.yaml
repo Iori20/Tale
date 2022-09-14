@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-09-13T18:14:46.843-03:00
+  initializedAtString: 2022-09-13T17:08:25.164-03:00
+  log:
+  - commitID: 8070b12b74e78b96e16b717120d436ea6709662f
+    mergeA: 
+    mergeB: 
+    authorName: Iori20
+    authorEmail: iori.leite@etec.sp.gov.br
+    commitEmail: iori.leite@etec.sp.gov.br
+    commitName: Iori20
+    summary: Initial commit
+    description: 
+    timeString: 2022-09-11T21:16:57.000-03:00
+    commitTimeString: 2022-09-11T21:16:57.000-03:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Iori\Downloads\River-tale\.gitattributes
+      projectPath: ..\.gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: README.md
+      fullPath: C:\Users\Iori\Downloads\River-tale\README.md
+      projectPath: ..\README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
